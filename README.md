@@ -1,3 +1,6 @@
+*This functionality is now included in the JaCoCo-plugin, see https://wiki.jenkins-ci.org/display/JENKINS/JaCoCo+Plugin*
+
+
 jacococoveragecolumn-plugin
 ===========================
 
